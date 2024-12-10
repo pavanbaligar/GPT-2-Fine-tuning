@@ -1,0 +1,316 @@
+ e-ISSN: 2582-5208
+International Research Journal of Modernization in Engineering Technology and Science
+( Peer-Reviewed, Open Access, Fully Refereed International Journal )
+Volume:04/Issue:09/September-2022 Impact Factor- 6.752 www.irjmets.com
+www.irjmets.com @International Research Journal of Modernization in Engineering, Technology and Science
+[524]
+A CASE STUDY ON ZOMATO
+Labhpreet*1
+*1Division: Mathematics, University Institute Of Sciences, Chandigarh University,
+Gharuan, Mohali, Punjab-140413, India.
+ABSTRACT
+The introduction of digital technology has enhanced the usage of creativity while also reshaping current
+sectors. The global expansion in the digital sector has had an impact on the Indian economy. With the advent of
+digitization, the food sector has embraced an e-commerce infrastructure that allows customers to make orders
+via mobile-based apps and have meals delivered to their home. Among many such service providers, Zomato is
+one of the most popular applications, offering an online meal delivery service to users who want to discover
+eateries. This research examines Zomato's marketing mix, positioning methods, competitive landscape, and
+SWOC analysis. To improve service skills, the overall study proposed that Zomato expand into remote regions
+and give virtual restaurant tours. The analysis suggests that Zomato's positioning strategy is effectively defined
+to capture the market but that other strategies are needed to remain in a competitive environment. Zomato's
+implications have been examined.
+Keywords: Online Food Delivery, SWOC Analysis, Marketing Mix Strategies, Competitive Analysis.
+I. INTRODUCTION
+Globalization has facilitated the usage of the Internet not just between various commercial enterprises, but also
+between businesses and customers. Customers use the Internet not only to order products online, but also to
+compare prices, product characteristics, and after-sales support facilities that they would receive if they
+purchased the product from a certain retailer [1]. The Internet is becoming a more popular platform for
+searching, selecting, and purchasing material. Online food ordering aggregators (OFA’s) provide a variety of
+alternatives and conveniences that allow users to order from restaurants with a simple swipe on their cell
+phones. As several new internet delivery channels fight for market positions and clients in various Indian
+metropolitan centres, the industry of providing restaurant meals to the house is fast developing [2]. Food
+delivery services have become highly profitable companies in the last five years, despite the fact that these
+firms may swiftly take orders through internet channels and service multiple restaurants in any particular local
+market. Moreover, given how busy individuals are these days, the demand for restaurant delivery services has
+expanded dramatically. In their spare time, many people will make orders at restaurants and then proceed to
+pick up their meal. However, with people's incredibly busy lifestyles, they now want to be able to have access to
+a delivery service that can rapidly serve meals to them. As a result of the debut of these new enterprises paired
+with internet applications that allow them to process orders swiftly, the popularity of food delivery services has
+grown.
+II. RESEARCH METHODOLOGY
+This study's analysis is based on secondary data. As a result, textual sources are considered for data collecting.
+The research examines Zomato's marketing practises and proposes strategies for promoting long-term growth.
+The secondary data comes from the Zomato website, journal publications, blogs, and company websites.
+III. COMPANIES AND FIRMS
+Online meal delivery has been one of the most fast advancements in the e-commerce business. Customers may
+now pick from a wide range of cuisines from a variety of restaurants listed online, internationally, and at any
+time, which has transformed the way people think about food. The following is a list of online food companies,
+including their country of origin and year of foundation.
+ e-ISSN: 2582-5208
+International Research Journal of Modernization in Engineering Technology and Science
+( Peer-Reviewed, Open Access, Fully Refereed International Journal )
+Volume:04/Issue:09/September-2022 Impact Factor- 6.752 www.irjmets.com
+www.irjmets.com @International Research Journal of Modernization in Engineering, Technology and Science
+[525]
+Table 1: Presents the list of online food delivery companies
+S. No. List of Companies Country of origin Year of Establishment
+1. Domino’s Pizza Ypsilanti, Michigan, U.S. 1961
+2. Just Eat London, England, UK 2001
+3. Grubhub Chicago, Illinois, U.S. 2004
+4. Zomato Haryana, India 2008
+5. Postmates San Francisco, California, US 2011
+6. FoodPanda Berlin, Germany 2012
+7. Deliveroo London, England, UK 2013
+8. DoorDash San Francisco, California, US 2013
+9. Swiggy Bangalore, India 2014
+10. UberEats San Francisco, California, U.S. 2014
+IV. OVERVIEW OF ZOMATO
+Zomato was founded in 2008 under the name 'Foodiebay,' and in 2010 it was renamed Zomato [3]. It began
+with a home initiative in Delhi 12 years ago and has since grown to become one of the world's largest food
+suppliers. Currently operating in 24 countries and 10000+ cities throughout the world, allowing more people to
+view better cuisine and aiming not just to connect people with food in any way but also to work closely with
+restaurants to establish a sustainable environment.
+Zomato's Principles Framework:[4]
+A. RESILIENCE: When faced with adversity, Zomato pushes itself beyond its capabilities. They approach it
+solely with adaptability since they anticipate uncertainty.
+B. ACCEPTANCE: Customer feedback is divided into constructive data, and the company continues to improve
+its functions even more efficiently.
+C. OWNERSHIP: They take every issue as their own and work to bring about change.
+D. HUMBLENESS: It's always about 'us' over 'me.' They do not lose themselves in pride or trust during
+individual triumphs, but instead focus on being our plain selves in every aspect. E. SPARK: They are
+evangelists who believe in faith and push for it.
+E. JUDGMENT: In the majority of situations, they attempt to obtain the correct judgement.
+V. MARKETING STRATEGIES
+Zomato was meant to be the Foodies' hangout. It is now known as Food Network. According to the Boston
+Consulting Company, the food industry in India in 2015 was over 23 trillion Indian rupees, and by 2020 it is
+expected to reach 42 lakh crores and is redefining the experience of foodservice delivery, with technology
+playing a key role [5].
+A. SEGMENTING: Zomato appeals to the 18-35 age range who enjoy dining out and want to be well-informed
+about restaurants. Zomato discovered a broader target market in Professionals who prefer to dine out in the
+office and even enjoy to nibble food if it is brought to their places of stay [6]. In the experiential events sector,
+they host several entertainment and cuisine festivals named Zealand in numerous places. Zomato claims to give
+clients with a pleasurable culinary experience. It plans to do this by developing new food-centered products for
+the banqueting out and delivery segments.
+B. TARGET: Zomato intends to attract young people between the ages of 18 to 35, who frequently wish to dine
+out with their loved ones. It tries to attract consumers who consistently provide reviews and feedback about
+ e-ISSN: 2582-5208
+International Research Journal of Modernization in Engineering Technology and Science
+( Peer-Reviewed, Open Access, Fully Refereed International Journal )
+Volume:04/Issue:09/September-2022 Impact Factor- 6.752 www.irjmets.com
+www.irjmets.com @International Research Journal of Modernization in Engineering, Technology and Science
+[526]
+the location in order to attract additional customers who believe the location is worthy, good, and value for
+money. People who enjoy eating more food and who want to share it with others are also targeted. These
+people just want to know where the greatest dishes in town can be found and then visit those establishments.
+Consumption is aimed for all internet restaurant opinion seekers [7].
+C. POSITIONING: The website is popular among young people since they want to discover new locations to eat
+outside with family and friends [8].
+VI. ZOMATO’S MARKETING MIX
+A. PRODUCT: Zomato is an app/website that shows its customers available restaurants and menus, as well as
+the ability to make an order online. Zomato provides the user with restaurant information, images, costs,
+menus, and even customer reviews, as well as a forum where customers can share their ideas about the cuisine
+and service of the food providers [9]. In its marketing, the primary services include point-of-sale systems,
+restaurant expedition and delivery management, and advanced table bookings.
+B. COST: Zomato does not charge restaurants for listing their information on their online portal. Zomato
+makes money by displaying restaurant advertisements on their website.
+They advertise the restaurant's banner, which offers them maximum visibility to users that visit their website.
+They also provide restaurant consulting services, such as advising restaurants on when to launch their next
+location for restaurant chains. It has raised its Gold membership fees, begun cross-selling during checkouts, and
+implemented a phased delivery cost. Lunch is the most commonly bought meal online, and card payment is the
+favoured payment method. Surprisingly, it was discovered that 95 percent of respondents purchased internet
+meals because of special deals and discounts, and 84 percent because it was convenient and time-saving [10].
+C. LOCATION: The use of a mobile smartphone app for customers to let them view and provide orders has
+allowed restaurants to deliver consumers' orders instantaneously, which has contributed to the increase in the
+usage of mobile phones and computers and brought good business to the service sector [11]. Zomato, an online
+service, is accessible on the Windows, Android, and iOS platforms. It is present in 24 countries, including India,
+Australia, the United States, Chile, Malaysia, the United Arab Emirates, Portugal, South Africa, and many others.
+The UI is simple to use and comes in nine languages: English, Italian, Spanish, Portuguese, Turkish, Slovak,
+Indonesian, Polish, and Italian [12].They are also active on social media sites such as Facebook, Twitter,
+Pinterest, and Instagram, which are utilised to connect with consumers. Furthermore, the logistic system has
+changed significantly since the Indian Postal Service's mail-order days. With the proliferation of various private
+logistic firms, distribution and delivery routes may now be recognised as capable of achieving consumer
+expectations of speed and timeliness of delivery [13].
+D. PROMOTION: Zomato's advertising is exceedingly exact, making it highly targeted. They have an analytics
+platform built in that executes a large number of queries and disseminates useful information. This makes it
+incredibly targeted. Zomato is well-known for providing more spectacular deals than its competitors. Zomato
+promotes Get excellent savings on animation and cartoons with captions. Faster delivery. In marketing, Zomato
+is aggressive when it employs guerrilla marketing in comparison to others [14]. As part of a campaign, Zomato
+arranged the Zomaland festival, a culinary festival including entertainment such as music, dancing, and gagsters
+[15]. Zomato offers discounts and promotional coupons to entice customers.
+E. PHYSICAL EVIDENCE: Zomato is a service that does not sell any items and has no physical presence. The
+delivery system consists of personnel that deliver the meal ordered through Zomato's website or application.
+The firm functions as a third-party scheme.
+F. INDIVIDUALS: Zomato is made up of a strong team of over 5,000 people that work hard to deliver the finest
+services to their clients. Small firms that outsource non-core company functions, such as food delivery, are
+rising; previously, only major organisations practised this. As a result, an increasing number of proprietors and
+managers are becoming aware of the significance of outsourcing food delivery services [16].
+G. PROCESS: Customers must use their registered phone number and email address to access Zomato. The
+customer's geolocation is tracked, and a list of places in the neighbourhood is provided, along with a menu that
+can be explored and then an order can be placed. To wither, payment for the purchase can be performed in cash
+or through online ways. The restaurant will approve and ship the order as soon as it is placed. After the dish is
+ e-ISSN: 2582-5208
+International Research Journal of Modernization in Engineering Technology and Science
+( Peer-Reviewed, Open Access, Fully Refereed International Journal )
+Volume:04/Issue:09/September-2022 Impact Factor- 6.752 www.irjmets.com
+www.irjmets.com @International Research Journal of Modernization in Engineering, Technology and Science
+[527]
+delivered, Zomato requests feedback. As a result, the entire procedure has been simplified to ensure that the
+user has a pleasant experience. Paper waste may be minimised by dining at the restaurant because they run on
+a tablet and do not require documentation. They don't utilise records to take orders, for example. It also comes
+with a computerised menu card. There's no need to wait for the servers to take a customer's order when they
+enter the restaurant. They get the order as soon as a client takes a seat, and it is verified to the customer as
+soon as it is ready. So, despite the fact that the food is ready, late delivery would not be an issue [17].
+VII. DIFFERENTIATION MARKETING STRATEGY OF ZOMATO
+A. STRATEGY: Zomato creates innovative solutions that attract a customer's attention. Zomato Gold is a
+premium membership reward programme that provides clients with BOGO (Buy One, Get One) deals as well as
+two plus two complimentary drinks as part of a unique dine-out experience. Zomato Gold is now available to
+600,000 customers. This initiative has encouraged customers to eat out more, resulting in a greater rate of
+customer rush.
+B. STRONG BRAND NAME: A strong brand name is essential for maintaining a company's brand in the
+marketplace, and Zomato has effectively built a brand that resounds with confidence and ease of access. Many
+competitors, such as Food Panda and Uber Eats, have been in this market for a while, but in comparison to
+Zomato, they need to focus more on brand awareness. It has been able to continually modernise through a
+variety of channels, ensuring that the benefits it has created are preserved.
+C. FOCUS ON TECHNOLOGY: Zomato's most appealing feature to its customers is its well-designed user
+interface. The app is visually beautiful and user-friendly, giving it a competitive advantage over rival
+companies. Even for a novice, the speed with which Zomato's website and mobile apps load and operate is
+impressive. Zomato devotes a lot of time and effort to creating a compelling user interface for its clients. It has
+data analytics, which has greatly contributed to its success.
+Zomato was able to achieve a competitive edge since it is heavily data-driven. The organisation can get
+operational and commercial benefits such as delivery time estimate, logistics optimization, advertising, and
+supplier arrangement.
+Zomato's objective is to adopt the cloud kitchen model, which will allow it to expand its company with less
+resources and lower fixed expenses. Zomato will be able to lead the market since it places such a high value on
+technological advancement.
+The food sector is seeing a lot of competition from newcomers, with most enterprises performing incredibly
+well in the market. Google Maps is utilised to give a database of nearby locations, as well as consumer
+comments, photos, and reviews. The most significant benefit over Google Maps is that the menu listing for Maps
+has yet to begin. Clients also use Zomato as a restaurant finding site.
+VIII. SWOC ANALYSIS ON ZOMATO
+The most extensively utilised approach for monitoring and analysing a company's overall competitive role and
+climate is SWOC Analysis. Its major goal is to assess options for creating a corporate business strategy that
+aligns the organization's resources and capabilities with the demands of the world in which it operates [18].
+Businesses utilise the SWOC framework to assess their company's competition's, and products' strengths,
+weaknesses, opportunities, and challenges. SWOC is a complete examination of the environment in which the
+industry operates, and it assists in the projection of many aspects of the environment as well as their
+incorporation into the organization's decision-making process. [19]
+STRENGTHS
+Zomato's advantages include the following:
+a) Customers rate Zomato as a 'Specialty Product' that solely provides food and restaurants.
+b) Customer brand awareness is quite strong, and it is ranked as the top product in the minds of customers.
+c) Global presence in 25 countries, with around 1.5 million restaurant members.
+d) Advanced and up-to-date technology, with over 1200 powerful and devoted workers operating beneath its
+roof.
+e) It has a simple and user-friendly UI.
+ e-ISSN: 2582-5208
+International Research Journal of Modernization in Engineering Technology and Science
+( Peer-Reviewed, Open Access, Fully Refereed International Journal )
+Volume:04/Issue:09/September-2022 Impact Factor- 6.752 www.irjmets.com
+www.irjmets.com @International Research Journal of Modernization in Engineering, Technology and Science
+[528]
+f) The brand has received various accolades and honours.
+g) They have a powerful website, www.zomato.com, that draws millions of visits.
+h) The smartphone app has received almost five million downloads worldwide.
+i) The mobile app's material is often updated, which encourages devoted users to repurchase.
+WEAKNESSES
+Zomato has the following flaws:
+a) Search engine competition & rivalries apps suggest limited growth.
+b) A lack of employee training to maintain food delivery standards.
+c) Service in rural regions is restricted.
+d) The behavioural risk derives from online merchants that have the capacity to act opportunistically by
+committing fraud against customers who place orders from a distance and which are personal in nature, as well
+as the government's failure to effectively track all online transactions. It includes product risks, psychological
+risks, and seller efficiency hazards. The unstable existence of the Internet, which is not under the control of
+online merchants and clients, poses environmental danger. It involves financial risks as well as privacy risks.
+e) Lack of personal table service, inability to view or control the goods physically, and worry over processes of
+terms and conditions of food delivery and therefrom, refunds, including the broadcast of credit card data
+sharing via the Internet are seen as disadvantages.
+f) The use of online meal delivery services may reduce home cooking, which may have an impact on clients'
+overall diet efficiency.
+OPPORTUNITIES
+The following are the possibilities available on Zomato:
+a) Possibility of expanding into new nations.
+b) Extending coverage to additional semi-urban and rural locations.
+c) Increased internet penetration as a result of a rising number of smartphone users.
+d) The rapid advancement of technology and the adoption of a simplified user interface.
+CHALLENGES
+Zomato is confronted with the following challenges:
+a) Intense competition from other food aggregators.
+b) Defending user data from cyber threats.
+c) The government's lack of defined rules and regulations, as a result of which the business model is prone to
+change according to changes in government policy.
+d) Other players might readily duplicate the business model, negatively impacting the company in the long
+term.
+e) In the case of dissatisfaction, internet consumers quickly transfer to competitors since their selections are
+diverse and there are no switching fees. As a result, client retention is a challenge for all firms functioning
+through the medium of the internet, necessitating additional work and methods for providing higher levels of
+customer satisfaction.
+f) Online meal delivery service providers must guarantee that the food reaches the consumer in a reasonable
+amount of time, and the lead time should be as short as possible in order to keep the customer from using
+alternative forms.
+IX. IMPLICATIONS FOR MANAGEMENT
+a) Its reach is limited in rural areas. With more and more technology routes opening up, the business must
+harness it through aggressive advertising.
+b) Some internet stores use a false review method that misleads customers. As a result, Zomato must use a
+reward-based method to validate such reviews.
+ e-ISSN: 2582-5208
+International Research Journal of Modernization in Engineering Technology and Science
+( Peer-Reviewed, Open Access, Fully Refereed International Journal )
+Volume:04/Issue:09/September-2022 Impact Factor- 6.752 www.irjmets.com
+www.irjmets.com @International Research Journal of Modernization in Engineering, Technology and Science
+[529]
+c) Zomato must continue to innovate by offering new services, such as a virtual restaurant tour. It should
+include live recordings and video shots from restaurants and cafés, especially if good musicians are
+performing. To attract more customers, the company should highlight its most popular aspects.
+X. CONCLUSION
+According to current trends, Zomato's Digital Marketing Strategy must continue to evolve. They must come up
+with new strategies to catch the interest of their customers. They are currently performing an excellent job.
+They will make more money if they continue to work hard on it. Zomato must be more dynamic in order to
+compete with other online meal service providers by making modifications in response to client requirements
+on a rapid basis.
+ ACKNOWLEDGEMENT
+We thank Mr. Kapil Madan [Chandigarh University] for comments that greatly improved the manuscript.
+XI. REFERENCES
+[1] W. Das, J. (2018). Consumer Perception Towards “Online Food Ordering and Delivery Services”: An
+Empirical Study. Journal of Management (JOM, 5(5), 155–163.
+[2] Kapoor, A. P., & Vij, M. (2018). Technology at the dinner table: Ordering food online through mobile
+apps. Journal of Retailing and Consumer Services, 43(1), 342–351.
+[3] Panigrahi, A., Gaur, V. (2020). A Case Study on Zomato – The online Food king of India. Journal of
+Management Research and Analysis, 7(1), 25–33.
+[4] https://www.zomato.com/who-we-are retrieved on 13.01.2021.
+[5] Raina, A., Rana, V. S., & Thakur, A. S. (2018). Popularity of Online Food Ordering and Delivery ServicesA Comparative Study between Zomato, Swiggy and Uber Eats in Ludhiana. International Journal of
+Advanced in Management, Technology and Engineering, 8(1), 350– 355.
+[6] https://www.marketing91.com/marketing-strategy-of-zomato/ retrieved on 15.01.2021.
+[7] Bhanot, T. (2020). Assessing the Emergence of Zomato as the Market Leader in the Online Food Service
+Segment in India in Terms of Marketing and Consumer Perception. International Journal of Science and
+Research, 9(7), 1729–1735.
+[8] Harshleen Kaur Sethi. (2017). Product and Brand Strategy of Zomato. International Journal of
+Engineering Research and Technology, 6(6), 711–716.
+[9] https://www.pdevice.com/how-to/the-quickest-way-to-order-food-online-how-to-oder- online-fromzomato-official-website/8004 retrieved on 15.01.2021
+[10] Neetu Dhayal, A. S. (2014). Management Sociology & Humanities ISSN 2277 – 9809 (online) Shri Param
+Hans Education & Research Foundation Trust. International Research Journal of Management
+Sociology & Humanities, 5(12), 21–25.
+[11] Chavan, V., Jadhav, P., Korade, S., & Teli, P. (2017). Implementing Customizable Online Food Ordering
+System Using Web Based Application. International Journal of Advanced Research in Computer
+Engineering & Technology, 6(4), 722–727.
+[12] https://en.wikipedia.org/wiki/Zomato retrieved on 15.01.2021
+[13] Pinto, N. L. (2013). Understanding the Barriers to Online Shopping Among Indian Consumers.
+[14] IMPACT: International Journal of Research in Humanities, Arts and Literature (IMPACT: IJRHAL), 1(3),
+35–44.
+[15] Madhuram, P. (2019). Original Research Paper Management Research Paper on Consumer Behaviour
+Towards Food. Indian Journal of Applied Research, 9(7), 22-24.
+[16] https://food.ndtv.com/news/zomaland-kickstarts-today-all-the-details-you-need-to-know-about-thefood-and-entertainment-festival-2148209 retrieved on 15-01-2021
+[17] Sonfield, M. C. (2014). Outsourcing Strategies for Small Businesses: Issues, Theoretical Bases, and
+Guidelines. Small Business Institute® Journal, 10(2), 35–43.
+ e-ISSN: 2582-5208
+International Research Journal of Modernization in Engineering Technology and Science
+( Peer-Reviewed, Open Access, Fully Refereed International Journal )
+Volume:04/Issue:09/September-2022 Impact Factor- 6.752 www.irjmets.com
+www.irjmets.com @International Research Journal of Modernization in Engineering, Technology and Science
+[530]
+[18] Bhargave, A., Jadhav, N., Joshi, A., Oke, P., & Lahane, S. R. (2013). Digital ordering system for
+restaurants using Android. International journal of scientific and research publications, 3(4), 1-7.
+[19] Aithal, P. S., & Kumar, P. M. (2015). Applying SWOC Analysis to an Institution of Higher Education.
+International Journal of Management, IT and Engineering, 5(7), 231–247.
+[20] Aithal, P. S. (2017). Industry Analysis – The First Step in Business Management Scholarly Research.
+International Journal of Case Studies in Business, IT and Education (IJCSBE), 2(1), 1–13. 
